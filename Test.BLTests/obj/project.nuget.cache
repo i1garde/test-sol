@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FkdePKkZm97U1dW46q+1GTZ9mvWGfzS9aBzVtdCRjN4+Jn9zvc2nDueIqS43AxOBiIy7cfLktm2N+RUdPxXZaw==",
+  "dgSpecHash": "EAxWyodMBAs9/B3J5W0+fv9gEiiOUjPK9dSxkv2afRbxNVGVi341ziDrk4Lx+Qq+Qb4R/7gaShjagjpJCBhQiA==",
   "success": true,
-  "projectFilePath": "C:\\Trash\\Prog Proj\\test-sol\\Test.BLTests\\Test.BLTests.csproj",
+  "projectFilePath": "D:\\Prog Proj\\C#\\test-sol\\Test.BLTests\\Test.BLTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanya\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\vanya\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

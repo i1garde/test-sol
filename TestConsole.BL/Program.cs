@@ -8,7 +8,6 @@ namespace test_console
         static void Main(string[] args)
         {
             Console.WriteLine("Program starts!");
-            
         }
     }
 }
